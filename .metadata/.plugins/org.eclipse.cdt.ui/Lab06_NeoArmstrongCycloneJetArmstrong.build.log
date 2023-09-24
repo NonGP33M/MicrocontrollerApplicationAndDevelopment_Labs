@@ -1,0 +1,10 @@
+00:08:00 **** Incremental Build of configuration Debug for project Lab06_NeoArmstrongCycloneJetArmstrong ****
+make -j16 all 
+arm-none-eabi-size   Lab06_NeoArmstrongCycloneJetArmstrong.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22120	    420	   3724	  26264	   6698	Lab06_NeoArmstrongCycloneJetArmstrong.elf
+Finished building: default.size.stdout
+ 
+
+00:08:00 Build Finished. 0 errors, 0 warnings. (took 302ms)
+
