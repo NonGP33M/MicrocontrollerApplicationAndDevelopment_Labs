@@ -1,0 +1,140 @@
+2023-09-25 00:45:25,026 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 696371904 Bytes (1073741824)
+2023-09-25 00:45:25,084 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 729926336 Bytes (1073741824)
+2023-09-25 00:45:26,355 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 777112256 Bytes (1073741824)
+2023-09-25 00:45:26,495 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F77
+2023-09-25 00:45:26,495 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-25 00:45:26,495 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-25 00:45:26,495 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-25 00:45:26,495 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CORTEX_M7
+2023-09-25 00:45:26,496 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-25 00:45:26,497 [INFO] CodeGenerator:799 - code generatio: config db path: D:\Programs\STM32CubeIDE_1.13.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.0.202307051724\\db\
+2023-09-25 00:45:26,597 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\license.tmp_save
+2023-09-25 00:45:26,737 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\license.tmp
+2023-09-25 00:45:26,759 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\gpio.c_save
+2023-09-25 00:45:26,846 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\gpio.c
+2023-09-25 00:45:26,863 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\gpio.h_save
+2023-09-25 00:45:26,922 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\gpio.h
+2023-09-25 00:45:26,986 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\cortex.tmp_save
+2023-09-25 00:45:27,069 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\cortex.tmp
+2023-09-25 00:45:27,083 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\tim.c_save
+2023-09-25 00:45:27,159 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\tim.c
+2023-09-25 00:45:27,168 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\tim.h_save
+2023-09-25 00:45:27,218 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\tim.h
+2023-09-25 00:45:27,224 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\usart.c_save
+2023-09-25 00:45:27,299 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\usart.c
+2023-09-25 00:45:27,302 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\usart.h_save
+2023-09-25 00:45:27,351 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\usart.h
+2023-09-25 00:45:27,366 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_it.c_save
+2023-09-25 00:45:27,477 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_it.c
+2023-09-25 00:45:27,482 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_it.h_save
+2023-09-25 00:45:27,535 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_it.h
+2023-09-25 00:45:27,557 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_hal_msp.c_save
+2023-09-25 00:45:27,631 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_hal_msp.c
+2023-09-25 00:45:27,635 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\system.tmp_save
+2023-09-25 00:45:27,706 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\system.tmp
+2023-09-25 00:45:27,718 [INFO] CodeEngine:311 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_hal_conf.h_save
+2023-09-25 00:45:27,789 [INFO] CodeEngine:335 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_hal_conf.h
+2023-09-25 00:45:27,820 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\main.h_save
+2023-09-25 00:45:27,884 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\main.h
+2023-09-25 00:45:27,893 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\main.c_save
+2023-09-25 00:45:27,963 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\main.c
+2023-09-25 00:45:28,279 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 116mS.
+2023-09-25 00:45:28,282 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-25 00:45:28,485 [INFO] ConfigFileManager:1457 - The Die is : DIE451
+2023-09-25 00:45:29,512 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1230mS.
+2023-09-25 00:45:29,512 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-25 00:45:29,514 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-25 00:48:42,946 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,597x242,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-25 00:49:49,797 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-25 00:49:51,776 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 659577160 Bytes (1073741824)
+2023-09-25 00:49:51,820 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 692082984 Bytes (1073741824)
+2023-09-25 00:49:52,903 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 628102512 Bytes (1073741824)
+2023-09-25 00:49:53,027 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F77
+2023-09-25 00:49:53,027 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-25 00:49:53,027 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-25 00:49:53,027 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-25 00:49:53,027 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CORTEX_M7
+2023-09-25 00:49:53,028 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-25 00:49:53,029 [INFO] CodeGenerator:799 - code generatio: config db path: D:\Programs\STM32CubeIDE_1.13.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.0.202307051724\\db\
+2023-09-25 00:49:53,127 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\license.tmp_save
+2023-09-25 00:49:53,180 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\license.tmp
+2023-09-25 00:49:53,202 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\gpio.c_save
+2023-09-25 00:49:53,266 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\gpio.c
+2023-09-25 00:49:53,270 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\gpio.h_save
+2023-09-25 00:49:53,308 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\gpio.h
+2023-09-25 00:49:53,362 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\cortex.tmp_save
+2023-09-25 00:49:53,419 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\cortex.tmp
+2023-09-25 00:49:53,431 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\tim.c_save
+2023-09-25 00:49:53,502 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\tim.c
+2023-09-25 00:49:53,507 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\tim.h_save
+2023-09-25 00:49:53,549 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\tim.h
+2023-09-25 00:49:53,560 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\usart.c_save
+2023-09-25 00:49:53,617 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\usart.c
+2023-09-25 00:49:53,621 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\usart.h_save
+2023-09-25 00:49:53,659 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\usart.h
+2023-09-25 00:49:53,672 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_it.c_save
+2023-09-25 00:49:53,749 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_it.c
+2023-09-25 00:49:53,753 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_it.h_save
+2023-09-25 00:49:53,813 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_it.h
+2023-09-25 00:49:53,833 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_hal_msp.c_save
+2023-09-25 00:49:53,886 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_hal_msp.c
+2023-09-25 00:49:53,889 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\system.tmp_save
+2023-09-25 00:49:53,930 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\system.tmp
+2023-09-25 00:49:53,940 [INFO] CodeEngine:311 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_hal_conf.h_save
+2023-09-25 00:49:53,998 [INFO] CodeEngine:335 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_hal_conf.h
+2023-09-25 00:49:54,018 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\main.h_save
+2023-09-25 00:49:54,065 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\main.h
+2023-09-25 00:49:54,075 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\main.c_save
+2023-09-25 00:49:54,130 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\main.c
+2023-09-25 00:49:54,489 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 121mS.
+2023-09-25 00:49:54,491 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-25 00:49:54,603 [INFO] ConfigFileManager:1457 - The Die is : DIE451
+2023-09-25 00:49:55,575 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1084mS.
+2023-09-25 00:49:55,576 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-25 00:49:55,577 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-25 00:54:38,018 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 615595760 Bytes (1073741824)
+2023-09-25 00:54:38,062 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 646025096 Bytes (1073741824)
+2023-09-25 00:54:39,357 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 697911024 Bytes (1073741824)
+2023-09-25 00:54:39,501 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F77
+2023-09-25 00:54:39,501 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-25 00:54:39,501 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-25 00:54:39,501 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-25 00:54:39,501 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CORTEX_M7
+2023-09-25 00:54:39,501 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-25 00:54:39,502 [INFO] CodeGenerator:799 - code generatio: config db path: D:\Programs\STM32CubeIDE_1.13.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.0.202307051724\\db\
+2023-09-25 00:54:39,601 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\license.tmp_save
+2023-09-25 00:54:39,653 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\license.tmp
+2023-09-25 00:54:39,670 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\gpio.c_save
+2023-09-25 00:54:39,717 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\gpio.c
+2023-09-25 00:54:39,721 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\gpio.h_save
+2023-09-25 00:54:39,758 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\gpio.h
+2023-09-25 00:54:39,836 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\cortex.tmp_save
+2023-09-25 00:54:39,905 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\cortex.tmp
+2023-09-25 00:54:39,917 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\tim.c_save
+2023-09-25 00:54:39,988 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\tim.c
+2023-09-25 00:54:39,993 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\tim.h_save
+2023-09-25 00:54:40,031 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\tim.h
+2023-09-25 00:54:40,042 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\usart.c_save
+2023-09-25 00:54:40,095 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\usart.c
+2023-09-25 00:54:40,099 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\usart.h_save
+2023-09-25 00:54:40,138 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\usart.h
+2023-09-25 00:54:40,151 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_it.c_save
+2023-09-25 00:54:40,198 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_it.c
+2023-09-25 00:54:40,206 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_it.h_save
+2023-09-25 00:54:40,243 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_it.h
+2023-09-25 00:54:40,262 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_hal_msp.c_save
+2023-09-25 00:54:40,314 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\stm32f7xx_hal_msp.c
+2023-09-25 00:54:40,317 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\system.tmp_save
+2023-09-25 00:54:40,352 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\MXTmpFiles\system.tmp
+2023-09-25 00:54:40,363 [INFO] CodeEngine:311 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_hal_conf.h_save
+2023-09-25 00:54:40,424 [INFO] CodeEngine:335 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\stm32f7xx_hal_conf.h
+2023-09-25 00:54:40,447 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\main.h_save
+2023-09-25 00:54:40,494 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Inc\main.h
+2023-09-25 00:54:40,503 [INFO] CodeEngine:255 - oldGeneratedFile, D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\main.c_save
+2023-09-25 00:54:40,557 [INFO] CodeEngine:279 - Generated code: D:\KMITL\3D\MAD\MAD_Lab\Lab07\Core\Src\main.c
+2023-09-25 00:54:40,898 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 117mS.
+2023-09-25 00:54:40,901 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-25 00:54:41,015 [INFO] ConfigFileManager:1457 - The Die is : DIE451
+2023-09-25 00:54:42,066 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1166mS.
+2023-09-25 00:54:42,067 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-25 00:54:42,069 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.

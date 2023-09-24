@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab01,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab02,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab03,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab05,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab05_2,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab06,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab06_NeoArmstrongCycloneJetArmstrong Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab07
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab02,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab03,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab05,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab05_2,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab06,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab06_NeoArmstrongCycloneJetArmstrong Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab07,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab01
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab01/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Lab01/activeLaunchTarget=null\:---
